@@ -1,0 +1,5 @@
+1. Open Power BI Desktop.
+2. Load "data.csv" file.
+3. Create a small chart (Sales by Product).
+4. Save as dashboard.pbix into this folder.
+5. Open GitHub Desktop → commit → push.
